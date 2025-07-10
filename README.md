@@ -7,7 +7,7 @@ Grâce à une interface simple et efficace, gardez le contrôle sur vos identifi
 
 ## 🎬 Démo vidéo
 
-👉 [Voir la vidéo de présentation](assets/securepass.mp4)
+👉 [Voir la vidéo de présentation sur Github](assets/securepass.mp4) ou [Voir la vidéo de présentation sur Gofile](https://gofile.io/d/useoxj)
 
 ---
 
